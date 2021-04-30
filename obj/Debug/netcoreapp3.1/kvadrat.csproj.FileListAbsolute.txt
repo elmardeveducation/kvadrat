@@ -11,3 +11,16 @@ C:\Users\Hp\source\repos\kvadrat\obj\Debug\netcoreapp3.1\kvadrat.csproj.CoreComp
 C:\Users\Hp\source\repos\kvadrat\obj\Debug\netcoreapp3.1\kvadrat.dll
 C:\Users\Hp\source\repos\kvadrat\obj\Debug\netcoreapp3.1\kvadrat.pdb
 C:\Users\Hp\source\repos\kvadrat\obj\Debug\netcoreapp3.1\kvadrat.genruntimeconfig.cache
+E:\musor\kvadrat\obj\Debug\netcoreapp3.1\kvadrat.csprojAssemblyReference.cache
+E:\musor\kvadrat\obj\Debug\netcoreapp3.1\kvadrat.AssemblyInfoInputs.cache
+E:\musor\kvadrat\obj\Debug\netcoreapp3.1\kvadrat.AssemblyInfo.cs
+E:\musor\kvadrat\obj\Debug\netcoreapp3.1\kvadrat.csproj.CoreCompileInputs.cache
+E:\musor\kvadrat\obj\Debug\netcoreapp3.1\kvadrat.dll
+E:\musor\kvadrat\obj\Debug\netcoreapp3.1\kvadrat.pdb
+E:\musor\kvadrat\bin\Debug\netcoreapp3.1\kvadrat.exe
+E:\musor\kvadrat\bin\Debug\netcoreapp3.1\kvadrat.deps.json
+E:\musor\kvadrat\bin\Debug\netcoreapp3.1\kvadrat.runtimeconfig.json
+E:\musor\kvadrat\bin\Debug\netcoreapp3.1\kvadrat.runtimeconfig.dev.json
+E:\musor\kvadrat\bin\Debug\netcoreapp3.1\kvadrat.dll
+E:\musor\kvadrat\bin\Debug\netcoreapp3.1\kvadrat.pdb
+E:\musor\kvadrat\obj\Debug\netcoreapp3.1\kvadrat.genruntimeconfig.cache

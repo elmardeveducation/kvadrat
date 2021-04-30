@@ -11,14 +11,17 @@ namespace kvadrat
             int a = Int32.Parse(Console.ReadLine());
             int b = Int32.Parse(Console.ReadLine());
             int c = Int32.Parse(Console.ReadLine());
-            Equation example1 = new Equation(c);
-            example1.A = a;
-            example1.B = b;
+            Equation example1 = new Equation(a, b, c);
+        //    example1.A = a;
+         //   example1.B = b;
+          //  example1.C=c;
             example1.Diskriminant();
             if (example1.D >= 0)
             {
                 example1.Result();
                 Console.WriteLine($"Корень 1={example1.X1} и Корень 2={example1.X2}");
+                Console.WriteLine($"Diskriminant={example1.D}");
+
             }
             else
             {
@@ -32,11 +35,8 @@ namespace kvadrat
     {
         private int a;
         private int b;
-        private int c;
-        private int d;
-        private double x1;
-        private double x2;
-
+        
+        
         public int A
         {
             private get
@@ -66,22 +66,21 @@ namespace kvadrat
         public double X1 { get; private set; }
         public double X2 { get; private set; }
 
-
-        public Equation(int c)
+public Equation(int a, int b, int c)
         {
-            C = c;
-            X1 = x1;
-            X2 = x2;
+            A=a;
+            B=b;
+            C=c;
         }
+        
 
         public void Diskriminant() {
-            d=b*b-4*a*c;
-            D = d;
-        }
+            D=b*b-4*a*C;
+                  }
 
         public void Result() {
-             x1 = (-b + Math.Sqrt(D)) / (2 * a);
-             x2 = (-b - Math.Sqrt(D)) / (2 * a);
+             X1 = (-b + Math.Sqrt(D)) / (2 * a);
+             X2 = (-b - Math.Sqrt(D)) / (2 * a);
         }
 
     }

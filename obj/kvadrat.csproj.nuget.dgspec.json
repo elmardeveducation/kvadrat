@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\source\\repos\\kvadrat\\kvadrat.csproj": {}
+    "E:\\musor\\kvadrat\\kvadrat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\source\\repos\\kvadrat\\kvadrat.csproj": {
+    "E:\\musor\\kvadrat\\kvadrat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\kvadrat\\kvadrat.csproj",
+        "projectUniqueName": "E:\\musor\\kvadrat\\kvadrat.csproj",
         "projectName": "kvadrat",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\kvadrat\\kvadrat.csproj",
-        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\kvadrat\\obj\\",
+        "projectPath": "E:\\musor\\kvadrat\\kvadrat.csproj",
+        "packagesPath": "C:\\Users\\Sabel\\.nuget\\packages\\",
+        "outputPath": "E:\\musor\\kvadrat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sabel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
